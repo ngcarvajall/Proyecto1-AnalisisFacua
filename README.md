@@ -8,11 +8,10 @@ El objetivo es facilitar la comprensión de cómo los precios fluctúan entre di
 ## 🗂️ Estructura del Proyecto
 ├── datos/ # Datos crudos y procesados 
 ├── Notebooks/ # Notebooks de Jupyter con el análisis 
-│ 
-├── EDA.ipynb # Análisis Exploratorio de Datos │ 
-├── Web_scrap.ipynb # Notebook de Web Scraping 
-│ └── prueba.ipynb # Pruebas y verificaciones 
+│ └── EDA.ipynb # Análisis Exploratorio de Datos │ 
+│ └── Web_scrap.ipynb # Notebook de Web Scraping 
 ├── src/ # Scripts de procesamiento y modelado 
+│ └──funciones.py
 ├── README.md # Descripción del proyecto 
 └── Script-Proyecto.py # Script principal del proyecto
 
