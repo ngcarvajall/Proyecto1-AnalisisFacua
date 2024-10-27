@@ -1,7 +1,7 @@
 # 🛒 Análisis de Precios en Supermercados de España
 
 ## 📖 Descripción
-Este proyecto realiza un análisis detallado de los precios de productos básicos en seis grandes supermercados en España, con datos recolectados hasta la fecha del 26-10-2024. El enfoque está en los productos de alta demanda como el aceite de girasol, aceite de oliva y leche, analizando la variabilidad y tendencias de precios en cada supermercado. Este análisis permite identificar patrones de estabilidad, fluctuaciones y posibles anomalías en los precios de estos productos esenciales.
+Este proyecto realiza un análisis detallado de los precios de 3 productos básicos en seis grandes supermercados en España, con datos recolectados hasta la fecha del 26-10-2024. El enfoque está en los productos de alta demanda como el aceite de girasol, aceite de oliva y leche, analizando la variabilidad y tendencias de precios en cada supermercado. Este análisis permite identificar patrones de estabilidad, fluctuaciones y posibles anomalías en los precios de estos productos esenciales.
 
 El objetivo es facilitar la comprensión de cómo los precios fluctúan entre distintos supermercados, proporcionando una guía útil para consumidores y analistas interesados en la dinámica de precios de consumo básico.
 
@@ -51,10 +51,6 @@ Este análisis destaca la competitividad y las estrategias de precios entre los 
 ## 🔄 Próximos Pasos
 - Profundizar en el análisis de presentaciones y formatos de productos que puedan influir en las variaciones de precios.
 - Explorar el impacto de factores externos, como promociones y campañas de marketing, en los cambios de precios.
-- Ampliar el análisis para incluir otros productos de consumo básico en distintos periodos del año.
-
-## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abre un pull request o una issue en el repositorio.
 
 ## ✒️ Autor
 - **Nelson Carvajal** - [@ngcarvajall](https://github.com/ngcarvajall)
